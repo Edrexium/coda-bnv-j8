@@ -14,4 +14,4 @@ J'ai demandé comment vérifier si trois X ou trois O étaient alignés horizont
 
 J'ai demandé comment lui faire choisir automatiquement la première case disponible.
 
-
+J'ai demandé en plus comment décrire les lignes de commmande sans que le code soit perdu 
